@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d2fdf0f-af85-4cf6-a734-10c8ec0bd2bc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YlWBTsMS03IRcpbYXrMIdrLVJq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="com.company.MortgageCalculator" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.company" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="moving and extracting" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d2fdf0f-af85-4cf6-a734-10c8ec0bd2bc" name="Default Changelist" comment="" />
+      <created>1583517525932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583517525932</updated>
+      <workItem from="1583517528667" duration="3139000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="358" y="50" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1583517641037">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="358" y="50" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1280.680@0.0.1280.680" timestamp="1583517641037" />
+    <state x="456" y="275" key="ReplaceDuplicatesPrompt" timestamp="1583518324431">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="456" y="275" key="ReplaceDuplicatesPrompt/0.0.1280.680@0.0.1280.680" timestamp="1583518324431" />
+    <state x="371" y="96" width="538" height="495" key="extract.method.dialog" timestamp="1583518319582">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="96" width="538" height="495" key="extract.method.dialog/0.0.1280.680@0.0.1280.680" timestamp="1583518319582" />
+  </component>
+</project>

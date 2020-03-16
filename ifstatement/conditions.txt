@@ -1,0 +1,5 @@
+if temperture>20
+print hot dat and drink lot of water
+if temperature btw 20 and 20
+print weather is good
+otherwise its cold
